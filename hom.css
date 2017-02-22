@@ -1,0 +1,71 @@
+
+h1{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 20pt;
+color: blue;
+}
+h2{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-weight: bold; 
+font-size: 18pt;
+color: red;
+
+}
+h3{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-weight: bold;
+ font-size: 16pt;
+color:green;
+ }
+
+
+/* h2{
+	background-color: #9999CC;
+	 color: red;
+	 font-weight: bold;
+     text-align: landscape;
+	 text-decoration: underline;
+	 
+	 }*/
+a:link{color: red;text-decoration: none;}
+a:visited{color: green;}
+a:hover{background-color: blue;
+        color: white;
+		font-weight: bold;
+		text-decoration: bold;}
+a:active{background-color: orange;}
+
+	p{background-color: #CFD2D2 ;
+	 font-family: Arial,Times New Roman, sans-serif;
+    font-weight: bold;
+    font-size: 12pt;
+}   
+ 
+  ul li{font-variant: small-caps;color: #0723F9;}
+  li li {font-variant: normal}
+
+  .button {
+    background-color:orange;
+    color: white;
+    float: center;
+    padding: 5px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.small-btn {
+    width: 50px;
+    height: 20px;
+}
+
+.medium-btn {
+    width: 70px;
+    height: 30px;
+}
+
+.big-btn {
+    width: 90px;
+    height: 30px;
+}
