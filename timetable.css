@@ -1,0 +1,38 @@
+
+th  
+   { width: 20%; font-family: Arial, sans-serif; background-color: #CC99FF }
+
+
+
+.cellSmallEmpty
+  
+   { height: 4em; font-size: x-small; vertical-align: top; background-color: #FFFF99 }
+
+.cellSmallFull
+   
+   { height: 4em; font-size: x-small; vertical-align: top; background-color: #B7B0FF }
+
+
+
+.cellLargeEmpty  
+          
+   { height: 6em; font-size: x-small; vertical-align: top; background-color: #FFFF99 }
+
+.cellLargeFull   
+
+   { height: 6em; font-size: x-small; vertical-align: top; background-color: #B7B0FF }
+
+
+.mainHeader 
+
+   { font-family: Arial, sans-serif; font-size: x-large; background-color: #6666FF;
+     color: #FFFFFF }
+
+
+.dayHeader  
+
+   { font-family: Arial, sans-serif; font-size: large }
+
+.center     
+          
+   { text-align: center }
